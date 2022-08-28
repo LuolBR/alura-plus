@@ -1,2 +1,2 @@
 # alura-plus
-Html and Css project developed in Alura's platfom.
+Html and CSS project developed in Alura's platfom.
